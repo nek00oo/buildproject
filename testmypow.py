@@ -7,4 +7,3 @@ class mypowtest(unittest.TestCase):
         self.assertEquals(mypow(1, 2), 1)
         self.assertEquals(mypow(2, 2), 4)
         self.assertEquals(mypow(3, 2), 9)
-        
